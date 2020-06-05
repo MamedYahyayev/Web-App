@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+    height: 65px;
+    background: cyan;
+}
+
+.menu {
+    border: 1px solid black;
+    float: left;
+    width: 186px;
+    height: 100%;
+    background: cyan;
+}
+
+.content {
+    border: 1px solid black;
+    float: right;
+    width: 89%;
+    height: 100%;
+    background: cyan;
+}
+
+.footer {
+    text-align: center;
+    border: 1px solid black;
+    clear: both;
+    width: 100%;
+    height: 65px;
+    background: cyan;
+}
+
+.menu #studentbtn {
+    width: 100%;
+    height: 55px;
+    margin-top: 16px;
+}
+
+.content #studentTable {
+    border: 1px solid black;
+    width: 100%;
+}
+
+.btnDesign {
+    font-size: 24px;
+    width: 100%;
+    height: 55px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 9px;
+}
+
+
+.header #icon-design {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+}
