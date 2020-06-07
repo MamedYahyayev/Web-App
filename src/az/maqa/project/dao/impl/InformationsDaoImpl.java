@@ -184,4 +184,5 @@ public class InformationsDaoImpl implements InformationsDao {
         }
         return informationsList;
     }
+//Salam necesiz
 }
